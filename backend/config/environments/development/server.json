@@ -1,0 +1,13 @@
+{
+  "host": "https://limitless-oasis-98189.herokuapp.com",
+  "port": 1337,
+  "proxy": {
+    "enabled": false
+  },
+  "cron": {
+    "enabled": false
+  },
+  "admin": {
+    "autoOpen": false
+  }
+}
